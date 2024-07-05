@@ -1,6 +1,4 @@
 # SP500_Correlation_CAPM_Crises
-This project investigates the behaviour of stock correlations and CAPM betas during market crises using daily returns of S&amp;P500 stocks from 1980 to 2023.
-
 Abstract: 
 
 This project explores the behavior of stock correlation and the Capital Asset Pricing Method(CAPM) within the S&P500 during the crisis period from 1980 to 2023. By looking at the daily returns of S&P500 stocks and taking daily index closing into account, we aim to validate the famous financial market saying, "Correlations go to one." We calculate return statistics for bull and bear markets using Python, especially the Pandas, Numpy, and yfinance packages. The study uses the correlation and CAPM beta formula to measure relationships and beta values during different market periods. This investigation assesses the effect of crises on the forecasting power of CAPM betas and emphasizes how closely financial assets move together during market stress. We also discuss our technique's shortcomings. The findings are presented clearly and concisely using bullet points to provide insightful conclusions on the behavior of stock correlations and betas during notable market downturns and recoveries. This helps to enhance our understanding of market dynamics during difficult financial times.
